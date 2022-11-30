@@ -42,7 +42,7 @@
 
 ## 2 Варианты использования
 
-![Use case](https://user-images.githubusercontent.com/71378966/204760501-9b8a2903-1cb8-4a5a-9759-7c72734540b9.png)
+![Use case](https://user-images.githubusercontent.com/71378966/204787844-f55eb748-6123-4e1c-862e-084583ae803f.png)
 
 ### 2.1 Перевод слова
 
@@ -63,7 +63,7 @@
 
 Диаграмма активности в соответствии с вариантом использования.
 
-![Activity vpd](https://user-images.githubusercontent.com/72657584/203234339-e6644c5f-695f-4ff5-9794-1365009f1f4b.jpg)
+![Activity](https://user-images.githubusercontent.com/71378966/204787788-b784e8c8-18ad-4e28-a9a7-02059acc56ff.png)
 
 # Sequence
 
@@ -75,7 +75,7 @@
 
 Диаграмма состояний в соответствии с вариантом использования.
 
-![image](https://user-images.githubusercontent.com/72657584/203266134-78cffead-e7a6-4ef7-abc1-26ec192d8c78.png)
+![State](https://user-images.githubusercontent.com/71378966/204787914-b812ef49-fcff-4ffa-876a-017801681798.png)
 
 # Database schema
 
